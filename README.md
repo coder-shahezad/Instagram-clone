@@ -1,3 +1,9 @@
+## Storybook
+
+![Storybook](instagram-clone.mov)
+
+> Storybook can be run with the following command:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
