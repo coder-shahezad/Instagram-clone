@@ -1,0 +1,24 @@
+// Add you general and shared styles here
+.root {
+  flex-grow: 1;
+}
+.wrapper {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+.mtb-3 {
+  margin: 1em 0 !important;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.mt-2 {
+  margin-top: 0.5rem;
+}
+.mt-4 {
+  margin-top: 1.5rem;
+}
